@@ -1,0 +1,11 @@
+<?php
+ 
+$mysqlhost = "localhost";
+$user = "iamonlin_mainadm";
+$pass ="iamonline!@#$";
+$site_db = "iamonlin_maindb";
+$mysqlconnection = mysql_connect($mysqlhost,$user,$pass) or die(mysql_error());
+mysql_select_db($site_db,$mysqlconnection);
+?>
+
+ 

@@ -1,0 +1,4 @@
+[20-Dec-2019 03:11:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lunarout/public_html/stagingsite/admindashboard/required_queries.php on line 5
+[20-Dec-2019 03:11:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lunarout/public_html/stagingsite/admindashboard/required_queries.php on line 19
+[20-Dec-2019 03:46:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lunarout/public_html/stagingsite/admindashboard/required_queries.php on line 5
+[20-Dec-2019 03:46:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lunarout/public_html/stagingsite/admindashboard/required_queries.php on line 19
